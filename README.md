@@ -5,4 +5,4 @@ The results are rendered as gif files:
 
 ![Alt Text](https://github.com/castillogo/gapminder_project/blob/master/lifeexpectvrsfertilitypop.gif)
 
-![Alt Text](https://github.com/castillogo/gapminder_project/blob/master/lifeexpectvrsfertilitypop.gif)
+![Alt Text](https://github.com/castillogo/gapminder_project/blob/master/life_expectancy.gif)
